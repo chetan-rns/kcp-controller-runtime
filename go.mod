@@ -14,8 +14,6 @@ require (
 	sigs.k8s.io/controller-runtime v0.11.2
 )
 
-require github.com/kcp-dev/logicalcluster v1.1.1
-
 require (
 	github.com/PuerkitoBio/purell v1.1.1 // indirect
 	github.com/PuerkitoBio/urlesc v0.0.0-20170810143723-de5bf2ad4578 // indirect
